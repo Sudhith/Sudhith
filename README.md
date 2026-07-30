@@ -1,56 +1,78 @@
-<h1 align="center">Hi 👋, I'm Rachakonda Sai Sudhith Devadatta</h1>
-<h3 align="center">A passionate CSE Student & Aspiring Software Engineer from Visakhapatnam, India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Sai Sudhith</h1>
+<h3 align="center">Computer Science Student | AI & Machine Learning Enthusiast | Java & DSA Learner 🇮🇳</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile Views"> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<ul>
-<li>
-<p>🔭 I’m currently studying Computer Science and Engineering at <strong>GITAM University</strong>.</p>
-</li>
-<li>
-<p>🌱 I’m currently working on <strong>SecureLink</strong> (a malware detection chatbot using the VirusTotal API) and <strong>pdfc</strong> (a self-hosted PDF privacy utility).</p>
-</li>
-<li>
-<p>🎯 I’m currently preparing for summer engineering internships (like JPMorgan!).</p>
-</li>
-<li>
-<p>🧠 I’m actively exploring <strong>Machine Learning, AI Systems, and Competitive Programming</strong>.</p>
-</li>
-<li>
-<p>🏆 I recently participated in the <strong>Smart India Hackathon 2025</strong>.</p>
-</li>
-<li>
-<p>💬 Ask me about <strong>Algorithms, AI-driven image generation, and making the perfect curd rice!</strong></p>
-</li>
-<li>
-<p>📫 How to reach me: <strong><a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a></strong></p>
-</li>
-</ul>
+## 👨‍💻 About Me
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+- 🎓 Computer Science Student
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 💻 Currently learning **Java, Data Structures & Algorithms**
+- 🌱 Exploring **Machine Learning, Deep Learning, and Cloud Computing**
+- 🔬 Interested in building AI-powered real-world applications
+- 📚 Solving problems on **LeetCode** to strengthen problem-solving skills
+- 🚀 Open to internships, collaborations, and open-source contributions
+- ⚡ Goal: Become an AI Engineer and Software Developer
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,git,github,vscode,mysql,flask,sklearn,tensorflow" />
+</p>
+
+---
+
+## 🌟 Current Focus
+
+- 📖 Mastering Data Structures & Algorithms
+- 🧠 Learning Machine Learning using Scikit-Learn
+- ☁️ Exploring Google Cloud
+- 🤝 Contributing to Open Source
+- 🚀 Building AI & Web Development Projects
+
+---
+
+## 📂 Featured Projects
+
+- 🎬 **CinePing** – Movie release & booking alert web application
+- 🌊 **Ocean Water Quality Analysis** – AI/ML framework for coastal water quality analysis
+- 📄 **PDF Tools** – Merge, Split & Compress PDF files
+- 🤖 More exciting AI & ML projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-</p><div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/YOUR_GITHUB_USERNAME">
-		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/YOUR_TWITTER">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-</div>
-<p></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+</p>
 
-<h3 id="projects">Featured Projects</h3>
-<ul>
-<li><strong>SecureLink:</strong> A URL-scanning malware detection chatbot integrating the VirusTotal API.</li>
-<li><strong>pdfc:</strong> A custom, self-hosted document utility application designed to ensure data privacy.</li>
-<li><strong>Theater Alerts:</strong> An automated script to monitor theater booking pages for ticket availability.</li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
-<hr>
-<p>Credit: <a href="https://github.com/YOUR_GITHUB_USERNAME">Rachakonda Sai Sudhith Devadatta</a></p>
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/></a>
+</p>
+
+---
+
+### 💡 Quote
+
+> *"Code. Learn. Build. Repeat."*
+
+⭐ Thanks for visiting my profile!
