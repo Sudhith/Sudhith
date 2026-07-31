@@ -40,9 +40,9 @@
 
 ## 📂 Featured Projects
 
-- 🎬 **CinePing** – Movie release & booking alert web application
+- 🎬 **Movie Ticket Alerts** – Movie release & booking alert web application
 - 🌊 **Ocean Water Quality Analysis** – AI/ML framework for coastal water quality analysis
-- 📄 **PDF Tools** – Merge, Split & Compress PDF files
+- 📄 **SecureLink** – AI - Powered URL Analyser with Telegram bot support
 - 🤖 More exciting AI & ML projects coming soon...
 
 ---
